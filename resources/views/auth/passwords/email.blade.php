@@ -6,7 +6,7 @@
             <div class="panel panel-default">
                 <div class="panel-heading">重置密码</div>
                 <div class="panel-body">
-                    @if (session('status'))
+           sasasa         @if (session('status'))
                         <div class="alert alert-success">
                             {{ session('status') }}
                         </div>
